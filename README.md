@@ -21,5 +21,6 @@ The final image is the combination of the bilateral image and the sobel image. T
  
 ###### Known Issues
 As seen in the results the bilateral filter adds a tent to the image and bolds the edges while it blends the image. However, the tent fades as the sobel operator is applied. 
-More Time?
+
+###### More Time?
 If I had more time, I would fix the bilateral filter. Then I would like to give the user options to apply different filters and then apply the cartoon filter. I think it would look cool to apply the cartoon filter on filtered images. 
